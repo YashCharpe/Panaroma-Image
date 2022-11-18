@@ -1,2 +1,5 @@
+[server]
+enableCORS = true
+
 [browser]
 gatherUsageStats = false
